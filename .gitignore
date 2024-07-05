@@ -1,2 +1,4 @@
-/data/**
-.ipnyb_checkpoints
+/data/
+**/.ipynb_checkpoints
+/mlflask
+/mlflask/**
